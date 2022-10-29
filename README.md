@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ✨Here's my GitHub stats:
 
-![LQgdwind's GitHub stats](https://github-readme-stats.vercel.app/api?username=LQgdwind&show_icons=true&theme=merko)
+![LQgdwind's GitHub stats](https://github-readme-stats.vercel.app/api?username=LQgdwind&show_icons=true&theme=gruvbox)
 
 🤔Here's my language card:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQgdwind&langs_count=10&theme=merko&layout=compact)](https://github.com/LQgdwind/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQgdwind&langs_count=10&theme=gruvbox&layout=compact)](https://github.com/LQgdwind/github-readme-stats)
 
 📫 How to email me: lqgdwind@foxmail.com / zlqgdwind@gmail.com
 
