@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🤔Here's my language card:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQgdwind&langs_count=8&theme=merko&layout=compact)](https://github.com/LQgdwind/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQgdwind&langs_count=10&theme=merko&layout=compact)](https://github.com/LQgdwind/github-readme-stats)
 
 📫 How to email me: lqgdwind@foxmail.com / zlqgdwind@gmail.com
 
