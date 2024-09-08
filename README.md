@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently majoring in Software Engineering in Beijing Institude of Technology.
+🔭 I’m currently majoring in Software Engineering in Tsinghua University.
 
 ✨Here's my GitHub stats:
 
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQgdwind&langs_count=10&theme=gruvbox&layout=compact)](https://github.com/LQgdwind/github-readme-stats)
 
-📫 How to email me: lqgdwind@foxmail.com / zlqgdwind@gmail.com
+📫 How to email me: lqgdwind@163.com / zlqgdwind@gmail.com
 
